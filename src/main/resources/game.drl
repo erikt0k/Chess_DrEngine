@@ -1,0 +1,9 @@
+import ru.sfedu.chess.model.Pawn
+import ru.sfedu.chess.api.Game
+rule "Pawn movement"
+when
+  $g : Game()
+  $p : Pawn(canMoveTo())
+then
+  $p.setxLocation(4);
+end

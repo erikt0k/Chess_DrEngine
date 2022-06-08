@@ -1,0 +1,27 @@
+31 мая 2022 15:48:43,313 [main] INFO  ru.sfedu.chess.api.Client - Pawn: x = 3, y = 0
+31 мая 2022 15:48:43,500 [main] WARN  org.appformer.maven.integration.embedder.MavenSettings - Environment variable M2_HOME is not set
+31 мая 2022 15:48:44,863 [main] WARN  org.drools.compiler.kie.builder.impl.KieBuilderImpl - File 'game.drl' is in folder '' but declares package 'ru.sfedu.chess.model'. It is advised to have a correspondance between package and folder names.
+31 мая 2022 15:48:45,811 [main] INFO  org.drools.compiler.kie.builder.impl.KieContainerImpl - Start creation of KieBase: defaultKieBase
+31 мая 2022 15:48:45,891 [main] INFO  org.drools.compiler.kie.builder.impl.KieContainerImpl - End creation of KieBase: defaultKieBase
+31 мая 2022 15:48:45,937 [main] INFO  ru.sfedu.chess.api.Client - new Pawn: x = 3, y = 0
+31 мая 2022 15:52:59,910 [main] INFO  ru.sfedu.chess.api.Client - Pawn: x = 3, y = 0
+31 мая 2022 15:53:00,116 [main] WARN  org.appformer.maven.integration.embedder.MavenSettings - Environment variable M2_HOME is not set
+31 мая 2022 15:53:01,521 [main] WARN  org.drools.compiler.kie.builder.impl.KieBuilderImpl - File 'game.drl' is in folder '' but declares package 'ru.sfedu'. It is advised to have a correspondance between package and folder names.
+31 мая 2022 15:53:02,323 [main] INFO  org.drools.compiler.kie.builder.impl.KieContainerImpl - Start creation of KieBase: defaultKieBase
+31 мая 2022 15:53:02,399 [main] INFO  org.drools.compiler.kie.builder.impl.KieContainerImpl - End creation of KieBase: defaultKieBase
+31 мая 2022 15:53:02,444 [main] INFO  ru.sfedu.chess.api.Client - new Pawn: x = 3, y = 0
+31 мая 2022 15:53:53,830 [main] INFO  ru.sfedu.chess.api.Client - Pawn: x = 3, y = 0
+31 мая 2022 15:53:54,016 [main] WARN  org.appformer.maven.integration.embedder.MavenSettings - Environment variable M2_HOME is not set
+31 мая 2022 15:53:56,405 [main] INFO  org.drools.compiler.kie.builder.impl.KieContainerImpl - Start creation of KieBase: defaultKieBase
+31 мая 2022 15:53:56,482 [main] INFO  org.drools.compiler.kie.builder.impl.KieContainerImpl - End creation of KieBase: defaultKieBase
+31 мая 2022 15:53:56,526 [main] INFO  ru.sfedu.chess.api.Client - new Pawn: x = 3, y = 0
+31 мая 2022 15:54:45,169 [main] INFO  ru.sfedu.chess.api.Client - Pawn: x = 3, y = 0
+31 мая 2022 15:54:45,347 [main] WARN  org.appformer.maven.integration.embedder.MavenSettings - Environment variable M2_HOME is not set
+31 мая 2022 15:54:47,740 [main] INFO  org.drools.compiler.kie.builder.impl.KieContainerImpl - Start creation of KieBase: defaultKieBase
+31 мая 2022 15:54:47,825 [main] INFO  org.drools.compiler.kie.builder.impl.KieContainerImpl - End creation of KieBase: defaultKieBase
+31 мая 2022 15:54:47,874 [main] INFO  ru.sfedu.chess.api.Client - new Pawn: x = 3, y = 0
+31 мая 2022 15:55:39,509 [main] INFO  ru.sfedu.chess.api.Client - Pawn: x = 3, y = 0
+31 мая 2022 15:55:39,755 [main] WARN  org.appformer.maven.integration.embedder.MavenSettings - Environment variable M2_HOME is not set
+31 мая 2022 15:55:42,152 [main] INFO  org.drools.compiler.kie.builder.impl.KieContainerImpl - Start creation of KieBase: defaultKieBase
+31 мая 2022 15:55:42,236 [main] INFO  org.drools.compiler.kie.builder.impl.KieContainerImpl - End creation of KieBase: defaultKieBase
+31 мая 2022 15:55:42,345 [main] INFO  ru.sfedu.chess.api.Client - new Pawn: x = 4, y = 0
